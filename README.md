@@ -1,12 +1,15 @@
 ### Hi, I'm Aytaj 👋
 
-💻 Aspiring Data Analyst | Python • Power BI • SQL • Excel
-🌍 Based in Baku (GMT+4) - Open to Remote EU roles
-🌱 Learning: Data Visualization & Remote Work
+🎓 Junior Data Analyst | Based in Baku (GMT+4) | Open to Remote EU Roles
 
-### About me
-- Python (Pandas) kursunu bitirmişəm, data analiz edirəm
-- Power BI ilə dashboardlar düzəldirəm
-- Remote komanda ilə işləməyə hazıram
+📊 Focus: Data Analysis & Visualization
+- Completed Python (Pandas) course, performing data analysis
+- Building interactive dashboards with Power BI
+- Working with SQL & Advanced Excel
+- Available for remote collaboration across EU time zones
 
-📫 Contact: aytacnovruz9@gmail.com
+🛠️ Tech Stack: Python | Pandas | SQL | Power BI | Excel | Git
+
+📈 Projects coming soon - Currently building my first Sales Dashboard
+
+📫 Contact: aytaj.novruzova@email.com
